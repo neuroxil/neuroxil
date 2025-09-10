@@ -150,10 +150,10 @@
   </a>
 </div>
 <a href="https://github.com/neuroxil/">
-  <img src="https://github-readme-stats.vercel.app/api?username=sepehrgithub&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neuroxil&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/neuroxil/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sepehrgithub&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neuroxil&theme=radical" />
 </a>
 <br />
 <a href="https://github.com/neuroxil/">
