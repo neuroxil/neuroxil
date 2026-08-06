@@ -117,9 +117,6 @@
   <a href="https://www.deepin.org/index/en/">
     <img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white" />
   </a>
-  <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  </a>
   <a href="https://linuxmint.com/">
     <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
   </a>
