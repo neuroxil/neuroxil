@@ -23,15 +23,6 @@
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  </a>
-  <a href="https://jquery.com/">
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  </a>
   <a href="https://windicss.org/">
     <img src="https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white" />
   </a>
@@ -53,14 +44,8 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   </a>
-  <a href="https://www.ruby-lang.org/en/">
-    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-  </a>
   <a href="https://www.shellscript.sh/">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Markdown/">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
