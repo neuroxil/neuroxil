@@ -348,8 +348,8 @@ I enjoy going deeper into Android than simply installing apps.
 <img src="https://img.shields.io/badge/X-@Neuroxil-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="mailto:sisop.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sisop.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sepehrberluoie@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sepehrberluoie%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://discord.com/">
