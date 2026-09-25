@@ -200,25 +200,6 @@ Linux isn't just an OS to me.
 
 It's where I go when I want to understand what's **actually happening**.
 
-```text
-Linux administration
-SSH
-systemd
-Docker
-Docker Compose
-Nginx
-Apache
-Networking
-Firewall configuration
-Server monitoring
-Process management
-Shell scripting
-Logs & debugging
-Database administration
-Self-hosting
-VPS infrastructure
-```
-
 <div align="center">
 
 <a href="https://www.debian.org/">
@@ -251,20 +232,6 @@ VPS infrastructure
 
 I enjoy going deeper into Android than simply installing apps.
 
-```text
-Android Studio
-Gradle
-ADB
-Fastboot
-Custom ROMs
-LineageOS
-Android system customization
-Device trees
-Recovery / flashing
-GApps
-System modification
-```
-
 <div align="center">
 
 <a href="https://developer.android.com/studio">
@@ -281,30 +248,6 @@ System modification
 </a>
 
 </div>
-
----
-
-# 🔧 Hardware
-
-Software is cool.
-
-**Knowing why the machine is screaming is cooler.**
-
-I'm interested in:
-
-- 🖥️ PC building
-- 🔌 Motherboards
-- ⚡ Power supplies
-- 🎮 GPUs
-- 🧠 CPUs
-- 💾 Storage
-- 🐏 RAM
-- 📱 Smartphones
-- 🔧 Hardware troubleshooting
-- 🧪 Hardware experimentation
-- 🐧 Linux on older hardware
-
-I enjoy diagnosing problems at the boundary between **hardware, firmware, drivers and operating systems**.
 
 ---
 
