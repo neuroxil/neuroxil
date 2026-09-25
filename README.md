@@ -4,21 +4,24 @@
 
 ### Hey :) I'm **Sepehr**, better known online as **Neuroxil**.
 
-**Full-Stack Developer · Systems Builder · Linux Enthusiast · Hardware Nerd · Music Maker**
+**Full-Stack Developer · Hardware/Software Enthusiast **
 
-I build software, break things, figure out why they broke, and then build something slightly more complicated.
+I build software, experiment with systems, break things, figure out why they broke, and then build something even more complicated.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=neuroxil&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=neuroxil&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
 <a href="https://github.com/neuroxil">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://x.com/Neuroxil">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="mailto:sisop.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -39,32 +42,17 @@ Alias       : Neuroxil
 Role        : Developer / Builder
 Focus       : Software, Systems, Linux & Hardware
 Languages   : Persian / English
-Interests   : Programming, Linux, Android, Hardware, Music
+Interests   : Programming, Linux, Android, Hardware & Music
 Currently   : Building things that probably didn't need to exist
 ```
 
-I'm a developer who enjoys working across the entire stack — from a frontend interface all the way down to servers, databases, Linux systems and hardware.
+I'm a developer who enjoys working across the entire stack — from frontend interfaces to backend services, databases, servers, Linux systems and hardware.
 
 I like understanding **how things actually work**, not just how to use them.
 
-That means my projects can range from:
-
-- 🌐 Web applications
-- 🤖 Telegram bots & automation
-- 🐧 Linux systems
-- 📱 Android ROMs & system customization
-- 🖥️ Self-hosted infrastructure
-- ⚙️ Backend services & APIs
-- 🗄️ Databases
-- 🔧 Hardware experimentation
-- 🎮 Gaming-related software
-- 🎵 Music and creative projects
-
 ---
 
-# `~/skills`
-
-## 💻 Programming Languages
+# 💻 Programming Languages
 
 <div align="center">
 
@@ -100,7 +88,7 @@ That means my projects can range from:
 
 ---
 
-## 🌐 Web Development
+# 🌐 Web Development
 
 <div align="center">
 
@@ -130,9 +118,9 @@ That means my projects can range from:
 
 ---
 
-## ⚙️ Backend & APIs
+# ⚙️ Backend & Databases
 
-I enjoy building the stuff users don't see.
+I enjoy building the parts users don't see.
 
 ```text
 REST APIs
@@ -146,8 +134,6 @@ API integrations
 Bot backends
 Server-side applications
 ```
-
-Technologies I work with include:
 
 <div align="center">
 
@@ -177,23 +163,7 @@ Technologies I work with include:
 
 ---
 
-# 🤖 Automation & Bots
-
-A significant part of what I build involves automation.
-
-I work with things like:
-
-- Telegram bots
-- Subscription systems
-- Admin panels
-- Automated notifications
-- Background workers
-- Payment workflows
-- User management
-- Scheduled jobs
-- API integrations
-- Server monitoring
-- Database automation
+# 🤖 Automation & APIs
 
 <div align="center">
 
@@ -203,11 +173,24 @@ I work with things like:
 <a href="https://docs.aiogram.dev/">
 <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a href="https://www.postman.com/">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </a>
 
 </div>
+
+I build automation around:
+
+- Telegram bots
+- REST APIs
+- Webhooks
+- Subscription systems
+- Admin panels
+- Background workers
+- Server monitoring
+- Database automation
+- Scheduled jobs
+- Custom integrations
 
 ---
 
@@ -215,9 +198,7 @@ I work with things like:
 
 Linux isn't just an OS to me.
 
-It's where I end up when I want to understand what's actually happening.
-
-### Things I work with
+It's where I go when I want to understand what's **actually happening**.
 
 ```text
 Linux administration
@@ -249,7 +230,7 @@ VPS infrastructure
 <a href="https://archlinux.org/">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </a>
-<a href="https://www.linuxmint.com/">
+<a href="https://linuxmint.com/">
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
 </a>
 <a href="https://www.docker.com/">
@@ -261,9 +242,6 @@ VPS infrastructure
 <a href="https://httpd.apache.org/">
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 </a>
-<a href="https://systemd.io/">
-<img src="https://img.shields.io/badge/systemd-222222?style=for-the-badge&logo=linux&logoColor=white" />
-</a>
 
 </div>
 
@@ -271,9 +249,7 @@ VPS infrastructure
 
 # 📱 Android
 
-I also enjoy going deeper into Android than simply installing apps.
-
-I've worked with:
+I enjoy going deeper into Android than simply installing apps.
 
 ```text
 Android Studio
@@ -312,7 +288,7 @@ System modification
 
 Software is cool.
 
-Knowing why the machine is screaming is cooler.
+**Knowing why the machine is screaming is cooler.**
 
 I'm interested in:
 
@@ -332,34 +308,7 @@ I enjoy diagnosing problems at the boundary between **hardware, firmware, driver
 
 ---
 
-# 🛠️ DevOps & Infrastructure
-
-<div align="center">
-
-<a href="https://www.docker.com/">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
-<a href="https://docs.docker.com/compose/">
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.cloudflare.com/">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</a>
-<a href="https://www.hetzner.com/">
-<img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 🧰 Tools
+# 🛠️ Development Tools
 
 <div align="center">
 
@@ -384,8 +333,8 @@ I enjoy diagnosing problems at the boundary between **hardware, firmware, driver
 <a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </a>
-<a href="https://www.postman.com/">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.figma.com/">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -422,68 +371,6 @@ I enjoy diagnosing problems at the boundary between **hardware, firmware, driver
 
 ---
 
-# 🚀 Things I Build
-
-Some of my projects tend to fall into a few categories.
-
-### 🌐 Web & SaaS
-
-Modern web applications, dashboards, APIs, authentication systems and tools.
-
-### 🤖 Automation
-
-Telegram bots, server automation, monitoring systems and custom workflows.
-
-### 🐧 Operating Systems
-
-Experimenting with Linux distributions, custom desktop experiences and gaming-focused systems.
-
-### 📱 Android
-
-Custom ROM projects, Android customization and system-level experimentation.
-
-### ⚙️ Infrastructure
-
-Self-hosted services, Docker deployments, databases, reverse proxies and VPS infrastructure.
-
-### 🎮 Gaming
-
-Tools and systems built around gaming, performance and Linux gaming.
-
-### 🎵 Music
-
-Music production, web-based music experiences and experiments combining technology with music.
-
----
-
-# 🧪 Some Things I've Worked On
-
-```text
-NeuraOS
-└── Custom Android / LineageOS-based system
-
-PulseFire
-└── Linux gaming OS concept
-
-SnipeNull
-└── Anti-stream-snipe / protection system
-
-Telegram Automation
-└── Bots, subscriptions, giveaways & administration
-
-Server Infrastructure
-└── Docker, databases, monitoring & automation
-
-Music Projects
-└── Web music experiences & creative experiments
-```
-
-A lot of these projects evolve, get rewritten, get abandoned, come back from the dead, and occasionally turn into something completely different.
-
-That's kind of the point.
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -496,7 +383,7 @@ That's kind of the point.
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuroxil&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/neuroxil">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neuroxil&theme=radical&hide_border=true" />
@@ -506,70 +393,28 @@ That's kind of the point.
 
 ---
 
-# 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neuroxil&theme=react-dark&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🧠 Philosophy
-
-> **Don't just use the technology. Understand it.**
-
-I like learning by building.
-
-If I don't know how something works, I'll probably try to make a smaller version of it.
-
-If something breaks, I'll probably stare at the logs for an unreasonable amount of time.
-
-And if it still doesn't work...
-
-```bash
-sudo reboot
-```
-
-> ...just kidding.  
-> Usually.
-
----
-
-# 🎵 Beyond Code
-
-When I'm not writing code, I'm usually listening to music, experimenting with production, messing with hardware, playing games, or thinking about some completely unnecessary project that somehow becomes a week-long development session.
-
-Music is a particularly big part of my life.
-
-Some artists I listen to:
-
-```text
-Radiohead
-Steve Lacy
-Olivia Rodrigo
-Mac DeMarco
-Jeff Buckley
-Lil Peep
-```
-
----
-
 # 📫 Contact
 
 <div align="center">
 
-If you're interested in collaborating, building something weird, talking about Linux, programming, hardware, Android or music — feel free to reach out.
-
-<br/>
-
-<a href="mailto:sisop.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-sisop.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <a href="https://github.com/neuroxil">
 <img src="https://img.shields.io/badge/GitHub-Neuroxil-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://x.com/Neuroxil">
+<img src="https://img.shields.io/badge/X-@Neuroxil-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:sisop.tech@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sisop.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://www.reddit.com/">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
 </div>
@@ -582,7 +427,7 @@ If you're interested in collaborating, building something weird, talking about L
 
 <br/>
 
-<img src="https://img.shields.io/badge/Powered_by-Caffeine-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+<img src="https://img.shields.io/badge/Powered_by-Caffeine-6f4e37?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Built_with-Curiosity-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Debugged_with-Pain-red?style=for-the-badge" />
 
